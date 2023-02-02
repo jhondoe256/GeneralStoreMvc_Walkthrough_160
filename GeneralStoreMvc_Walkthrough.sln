@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralStoreMvc_Walkthrough", "GeneralStoreMvc_Walkthrough\GeneralStoreMvc_Walkthrough.csproj", "{F10BB11A-07C6-467F-8E45-B338A204F490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10BB11A-07C6-467F-8E45-B338A204F490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10BB11A-07C6-467F-8E45-B338A204F490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10BB11A-07C6-467F-8E45-B338A204F490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10BB11A-07C6-467F-8E45-B338A204F490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EB203E-4FD4-4048-A51A-AF7011DCDD9D}
+	EndGlobalSection
+EndGlobal
